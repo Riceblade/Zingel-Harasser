@@ -18,3 +18,6 @@ it harasses zingel
 6. Run ts-node index.ts
 7. If you want your own emoji replace `<:zingel:924360562652114974>` with your own emoji or just delete that line if you don't want it to react.
 8. Enjoy :)
+
+You can replace the replies and message that triggers it by editing the code in `index.ts` at lines 11-15
+![here]https://cdn.discordapp.com/attachments/815418855832551444/929813633528102932/unknown.png
