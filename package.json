@@ -1,0 +1,19 @@
+{
+  "name": "guild-h-bot",
+  "version": "1.0.0",
+  "description": "guild h bot",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.ts"
+  },
+  "author": "rice",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.4.0",
+    "discord.js-commando": "^0.12.3",
+    "dotenv": "^10.0.0",
+    "nodemon": "^2.0.15",
+    "wokcommands": "^1.5.3"
+  }
+}
